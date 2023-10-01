@@ -1,4 +1,4 @@
-This project was designed for a compeititon in the university class Applied Cybersecurity.
+This project was designed for a competition in the university class Applied Cybersecurity.
 
 This project is Python-based and performs Port and OS scanning given an IP address or a range of IP addresses.
 
